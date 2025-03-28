@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "siliconflow-manager",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fe4b8726-3ed3-4cd3-bdaa-d8ac22c878a0",
+      "database_name": "siliconflow_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
